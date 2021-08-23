@@ -7,7 +7,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["< D:\\Projetos_BI\\dbeaver_sqlfluff_linter\\test.sql"]
+            "args": ["< test.sql"]
         }
     ]
 }
